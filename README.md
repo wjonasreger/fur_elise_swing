@@ -12,25 +12,41 @@ The ABC to Jazz Transformation is a Python project designed to transform ABC not
 
 Here are the audio samples of the "Für Elise" variants.
 
-![test audio](https://raw.githubusercontent.com/wjonasreger/fur_elise_swing/main/audio/fur-elise-original.mp4)
+### Normal Variants
+
+Below is a visual representation of how the song begins, reflecting the general pattern of normal temporal measures.
+
+![Normal Variants](https://raw.githubusercontent.com/wjonasreger/fur_elise_swing/main/imgs/1-1.png)
 
 1. Original
-https://github.com/wjonasreger/fur_elise_swing/assets/19893082/c756205a-a5a5-4d9b-bc92-5ebc605dbbd5
+  - https://github.com/wjonasreger/fur_elise_swing/assets/19893082/c756205a-a5a5-4d9b-bc92-5ebc605dbbd5
 
 2. 1:1 (Fast)
-https://github.com/wjonasreger/fur_elise_swing/assets/19893082/06847370-7199-4e1a-bc33-3d84b7b75fbf
+  - https://github.com/wjonasreger/fur_elise_swing/assets/19893082/06847370-7199-4e1a-bc33-3d84b7b75fbf
+
+### Swing Variants (Forward)
+
+Below is a visual representation of how the song begins, reflecting the general pattern of forward swing temporal measures, i.e. "doo-da."
+
+![Forward Swing Variants](https://raw.githubusercontent.com/wjonasreger/fur_elise_swing/main/imgs/doo-da.png)
 
 3. 2:1 (Fast)
-https://github.com/wjonasreger/fur_elise_swing/assets/19893082/3c2aca56-b1db-4bce-b384-148681af1bf0
+  - https://github.com/wjonasreger/fur_elise_swing/assets/19893082/3c2aca56-b1db-4bce-b384-148681af1bf0
 
-4. 1:2 (Fast)
-https://github.com/wjonasreger/fur_elise_swing/assets/19893082/855f8bf5-857a-43df-9881-d0c657547c23
+4. 4:1 (Fast)
+  - https://github.com/wjonasreger/fur_elise_swing/assets/19893082/7848194c-2660-45fc-bfff-6c3a34ad0c63
 
-5. 4:1 (Fast)
-https://github.com/wjonasreger/fur_elise_swing/assets/19893082/7848194c-2660-45fc-bfff-6c3a34ad0c63
+### Swing Variants (Backward)
+
+Below is a visual representation of how the song begins, reflecting the general pattern of backward swing temporal measures, i.e. "da-doo."
+
+![Backward Swing Variants](https://raw.githubusercontent.com/wjonasreger/fur_elise_swing/main/imgs/da-doo.png)
+
+5. 1:2 (Fast)
+  - https://github.com/wjonasreger/fur_elise_swing/assets/19893082/855f8bf5-857a-43df-9881-d0c657547c23
 
 6. 1:4 (Fast)
-https://github.com/wjonasreger/fur_elise_swing/assets/19893082/b034c022-a0f8-4433-a2ac-46c875df4b1a
+  - https://github.com/wjonasreger/fur_elise_swing/assets/19893082/b034c022-a0f8-4433-a2ac-46c875df4b1a
 
 ## Features
 
