@@ -10,7 +10,25 @@ The ABC to Jazz Transformation is a Python project designed to transform ABC not
 
 ## Samples
 
+Here are the audio samples of the "Für Elise" variants.
 
+1. Original
+https://github.com/wjonasreger/fur_elise_swing/assets/19893082/c756205a-a5a5-4d9b-bc92-5ebc605dbbd5
+
+2. 1:1 (Fast)
+https://github.com/wjonasreger/fur_elise_swing/assets/19893082/06847370-7199-4e1a-bc33-3d84b7b75fbf
+
+3. 2:1 (Fast)
+https://github.com/wjonasreger/fur_elise_swing/assets/19893082/3c2aca56-b1db-4bce-b384-148681af1bf0
+
+4. 1:2 (Fast)
+https://github.com/wjonasreger/fur_elise_swing/assets/19893082/855f8bf5-857a-43df-9881-d0c657547c23
+
+5. 4:1 (Fast)
+https://github.com/wjonasreger/fur_elise_swing/assets/19893082/7848194c-2660-45fc-bfff-6c3a34ad0c63
+
+6. 1:4 (Fast)
+https://github.com/wjonasreger/fur_elise_swing/assets/19893082/b034c022-a0f8-4433-a2ac-46c875df4b1a
 
 ## Features
 
